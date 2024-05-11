@@ -1,0 +1,10 @@
+TIME COMPLEXITIES OF THE ALGORITHMS:
+
+DFS:
+O(V + E)
+
+BFS:
+O(V + E)
+
+DIJKSTRA:
+O((V + E) * log(V))
